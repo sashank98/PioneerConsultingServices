@@ -1,0 +1,7 @@
+diff a/registration-login-spring-xml-maven-jsp-mysql/src/main/resources/application.properties b/registration-login-spring-xml-maven-jsp-mysql/src/main/resources/application.properties	(rejected hunks)
+@@ -1,4 +1,4 @@
+ jdbc.driverClassName=com.mysql.jdbc.Driver
+-jdbc.url=jdbc:mysql://localhost:3306/accounts
++jdbc.url=jdbc:mysql://localhost:3307/accounts
+ jdbc.username=root
+ jdbc.password=root
